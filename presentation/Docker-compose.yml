@@ -1,0 +1,5 @@
+git2svn_presentation:
+  build: .
+  ports:
+    - "8000:8000"
+  
